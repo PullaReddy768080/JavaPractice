@@ -7,6 +7,7 @@ public class Calculator {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Arithmetric operations");
         System.out.println("What kind of operation you want to perform");
         System.out.println("1.add");
         System.out.println("2.div");
